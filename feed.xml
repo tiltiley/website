@@ -3,7 +3,7 @@
     <title>सुनाखरी</title>
     <link href="https://preranasubedi.com.np/feed.xml" rel="self" />
     <link href="https://preranasubedi.com.np" />
-    <updated>2024-06-25T22:54:35+05:45</updated>
+    <updated>2024-06-25T23:22:04+05:45</updated>
     <author>
         <name>Prerana Subedi</name>
     </author>
@@ -40,6 +40,7 @@
         <link href="https://preranasubedi.com.np/1/"/>
         <id>https://preranasubedi.com.np/1/</id>
         <media:content url="https://preranasubedi.com.np/media/posts/5/kapada.jpg" medium="image" />
+            <category term="texture"/>
 
         <updated>2024-06-25T22:51:03+05:45</updated>
             <summary>
@@ -63,6 +64,7 @@
         <link href="https://preranasubedi.com.np/fatally-realising-that-its-been-thirty-years-since-1992/"/>
         <id>https://preranasubedi.com.np/fatally-realising-that-its-been-thirty-years-since-1992/</id>
         <media:content url="https://preranasubedi.com.np/media/posts/3/hajuraama.jpg" medium="image" />
+            <category term="street"/>
 
         <updated>2024-06-25T18:58:38+05:45</updated>
             <summary>
