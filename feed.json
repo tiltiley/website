@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://preranasubedi.com.np/photo-story/",
+            "url": "https://preranasubedi.com.np/photo-story/",
+            "title": "Photo Story",
+            "content_html": "<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://preranasubedi.com.np/media/posts/9/DSC04091.JPG\" alt=\"\" width=\"3936\" height=\"2624\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://preranasubedi.com.np/media/posts/9/responsive/DSC04091-xs.JPG 300w ,https://preranasubedi.com.np/media/posts/9/responsive/DSC04091-sm.JPG 480w ,https://preranasubedi.com.np/media/posts/9/responsive/DSC04091-md.JPG 768w ,https://preranasubedi.com.np/media/posts/9/responsive/DSC04091-lg.JPG 1024w\"></figure>",
+            "author": {
+                "name": "Prerana Subedi"
+            },
+            "tags": [
+                   "Photo stories"
+            ],
+            "date_published": "2024-07-17T10:27:09+05:45",
+            "date_modified": "2024-07-17T10:28:12+05:45"
+        },
+        {
             "id": "https://preranasubedi.com.np/portfolio/",
             "url": "https://preranasubedi.com.np/portfolio/",
             "title": "Portfolio",

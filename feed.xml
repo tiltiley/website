@@ -3,12 +3,30 @@
     <title>सुनाखरी</title>
     <link href="https://preranasubedi.com.np/feed.xml" rel="self" />
     <link href="https://preranasubedi.com.np" />
-    <updated>2024-07-15T22:52:26+05:45</updated>
+    <updated>2024-07-17T10:28:12+05:45</updated>
     <author>
         <name>Prerana Subedi</name>
     </author>
     <id>https://preranasubedi.com.np</id>
 
+    <entry>
+        <title>Photo Story</title>
+        <author>
+            <name>Prerana Subedi</name>
+        </author>
+        <link href="https://preranasubedi.com.np/photo-story/"/>
+        <id>https://preranasubedi.com.np/photo-story/</id>
+            <category term="Photo stories"/>
+
+        <updated>2024-07-17T10:27:09+05:45</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://preranasubedi.com.np/media/posts/9/DSC04091.JPG" alt="" width="3936" height="2624" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://preranasubedi.com.np/media/posts/9/responsive/DSC04091-xs.JPG 300w ,https://preranasubedi.com.np/media/posts/9/responsive/DSC04091-sm.JPG 480w ,https://preranasubedi.com.np/media/posts/9/responsive/DSC04091-md.JPG 768w ,https://preranasubedi.com.np/media/posts/9/responsive/DSC04091-lg.JPG 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Portfolio</title>
         <author>
