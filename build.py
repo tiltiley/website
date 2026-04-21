@@ -53,7 +53,7 @@ CONFIG = {
     "github_username": "tiltiley",
     "instagram_username": "prerana.0_0",
     "custom_link_name": "logs",
-    "custom_link_url": "https://log.preranasubedi.com.np",
+    "custom_link_url": "https://log.preranasubedi.com.np/author/",
 }
 
 
