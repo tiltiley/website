@@ -1,0 +1,6 @@
+# Build output
+public/
+
+# Editors & OS
+.nova
+.DS_Store
