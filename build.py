@@ -41,21 +41,19 @@ VIDEO_EXTENSIONS = {".mp4", ".webm", ".avi", ".mov"}
 
 
 CONFIG = {
-    "base_url": "https://art.jimmac.eu",
-    "title": "art.jimmac.eu",
-    "description": "Art by @jimmac",
-    "author_name": "Jakub Steiner",
-    "author_email": "jimmac@gmail.com",
-    "author_website": "https://jimmac.eu",
+    "base_url": "https://preranasubedi.com.np",
+    "title": "sunakhari",
+    "description": "Pictures by Prerana",
+    "author_name": "Prerana Subedi",
+    "author_email": "i@preranasubedi.com.np",
+    "author_website": "https://log.preranasubedi.com.np",
     "allow_indexing": True,
     "allow_image_sharing": True,
     "allow_original_download": False,
-    "mastodon_username": "jimmac",
-    "github_username": "jimmac",
-    "instagram_username": "jimmacfx",
-    "pixelfed_username": "jimmac",
-    "custom_link_name": "jimmac",
-    "custom_link_url": "https://jimmac.eu",
+    "github_username": "tiltiley",
+    "instagram_username": "prerana.0_0",
+    "custom_link_name": "logs",
+    "custom_link_url": "https://log.preranasubedi.com.np",
 }
 
 
