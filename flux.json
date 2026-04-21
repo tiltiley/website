@@ -1,0 +1,11 @@
+{
+  "contentDir": "pictures/original",
+  "useStaticFolder": true,
+  "staticDir": "pictures",
+  "assetsDir": "original",
+  "postTemplate": "---\nyear: \nauthor: \n---\n# {{title}}\n",
+  "siteUrl": "preranasubedi.com.np",
+  "showAdvancedFiles": false,
+  "syncSettingsToGitHub": true,
+  "sortBy": "recency"
+}
