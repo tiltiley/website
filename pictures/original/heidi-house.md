@@ -2,5 +2,5 @@
 year: 
 author: 
 ---
-# heidi-house
+# Heidi-house
 A home in Wilhelmshaven, I'll always remember.
