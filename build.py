@@ -341,7 +341,7 @@ def copy_static_assets():
                 shutil.rmtree(dst)
             shutil.copytree(src, dst)
 
-    for filename in ("favicon.png", "social-preview.png", "touch-icon-iphone.png"):
+    for filename in ("favicon.png", "social-preview.png", "touch-icon-iphone.png", "feed.xsl"):
         src = STATIC_DIR / filename
         if src.exists():
             shutil.copy2(src, OUTPUT_DIR / filename)
@@ -991,6 +991,7 @@ def generate_feed_xml(pictures, config):
     entries_xml = "\n".join(entries)
 
     return f"""<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/feed.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <link href="{base_url}/feed.xml" rel="self" type="application/atom+xml" />
   <link href="{base_url}/" rel="alternate" type="text/html" />
