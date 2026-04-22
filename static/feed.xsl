@@ -142,8 +142,8 @@
           <h1><xsl:value-of select="$site_title" /></h1>
           <p class="subtitle"><xsl:value-of select="$description" /></p>
           <div class="feed-notice">
-            <strong>Subscribe to this feed</strong>
-            To follow these updates, copy the URL of this page and paste it into your favorite RSS/Atom feed reader.
+            <strong>Subscribe to this RSS feed</strong>
+            To follow my updates, copy the URL of this page and paste it into your favorite newsreader (RSS/Feed Reader).
           </div>
         </header>
         <main>
